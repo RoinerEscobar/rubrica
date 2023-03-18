@@ -1,0 +1,43 @@
+.cont{
+  
+    margin-left: 280px;
+  }
+  #cont{
+    margin-left: 170px;
+    
+  }
+  .borde{
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-top: 20px;
+    
+  }
+  .contador{
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding-bottom:20px ;
+  }
+  #top{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #boton{
+    padding:2px ;
+    margin-left: 40px;
+  }
+  .titulo{
+    margin-top: 10px;
+  }
+
+  .nav{
+    margin-top: 20px;
+  }
+  
+
+  #footer{
+    margin-top: 400px;
+
+    background-color: beige;
+  }
